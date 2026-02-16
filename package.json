@@ -1,6 +1,6 @@
 {
   "name": "codex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "n8n community node for deterministic multi-provider AI routing and reliability",
   "license": "MIT",
   "author": "Ammar Alshuaibi",
